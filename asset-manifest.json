@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TexTCraftHub-react/static/css/main.f855e6bc.css",
+    "main.js": "/TexTCraftHub-react/static/js/main.71700e60.js",
+    "static/js/787.1bd0b810.chunk.js": "/TexTCraftHub-react/static/js/787.1bd0b810.chunk.js",
+    "index.html": "/TexTCraftHub-react/index.html",
+    "main.f855e6bc.css.map": "/TexTCraftHub-react/static/css/main.f855e6bc.css.map",
+    "main.71700e60.js.map": "/TexTCraftHub-react/static/js/main.71700e60.js.map",
+    "787.1bd0b810.chunk.js.map": "/TexTCraftHub-react/static/js/787.1bd0b810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.71700e60.js"
+  ]
+}
